@@ -1,3 +1,6 @@
+--Entrega M4
+--Estudiante: Julia Dono
+
 USE Ventas_Tech_DB;
 
 --Consulta general sobre la tabla a utilizar
